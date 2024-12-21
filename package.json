@@ -1,7 +1,7 @@
 {
   "name": "lyrics-card-maker",
-  "version": "1.0.0",
-  "description": "A React component for creating beautiful, customizable lyrics cards",
+  "version": "1.0.1",
+  "description": "Create beautiful, personalized lyrics posters from your favorite songs - perfect for gifts, home decor, or wall art. Design, customize, and print your unique music memories with our easy-to-use template!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

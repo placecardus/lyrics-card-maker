@@ -70,7 +70,7 @@ You can customize the appearance using CSS variables:
 
 ## 🌐 Live Demo
 
-Check out our live demo at: [https://lyrics-card-maker-demo.vercel.app](https://lyrics-card-maker-demo.vercel.app)
+Check out our live demo at: [https://lyric-card-maker.vercel.app](https://lyric-card-maker.vercel.app)
 
 ## 📚 Examples
 
