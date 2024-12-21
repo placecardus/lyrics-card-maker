@@ -1,0 +1,20 @@
+{
+  "name": "lyrics-card-maker",
+  "version": "1.0.0",
+  "description": "A React component for creating beautiful, customizable lyrics cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/placecardus/lyrics-card-maker"
+  },
+  "keywords": ["lyrics card maker", "lyrics poster maker", "lyrics card generator"],
+  "author": "mark_homaa",
+  "license": "MIT",
+  "homepage": "https://lyric-card-maker.vercel.app/",
+  "bugs": {
+    "url": "https://github.com/placecardus/lyrics-card-maker/issues"
+  }
+}
